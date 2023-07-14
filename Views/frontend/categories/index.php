@@ -1,0 +1,1 @@
+<h1>View index category <?php echo $categories[0]['name'] ?></h1>
